@@ -12,3 +12,4 @@ I present results of my aanalysis using clear charts, dashboards and reports. I 
 I translate my findings into clear, real world implications, provide suggestions and recommendations based on my analysis.
 
 ## MY PROJECTS
+J
