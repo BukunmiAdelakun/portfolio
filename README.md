@@ -6,17 +6,17 @@ Hello! I'm Adelakun Bukunmi, a passionate data analyst and a medical doctor with
 I perform data cleaning, preprocessing, and transformation tasks to ensure data accuracy, consistency , and readiness for analysis.I handle missing values, outliers and data type conversions while restructuring datasets for optimal analytical performance.
 
 **✔Data Analysis.**
-I apply stastical analysis, hypothesis testing, or modeling using SQL, Microsoft Excel and Power BI to identify trends, patterns, correlations and key findings.
+I apply stastical analysis using SQL, Microsoft Excel and Power BI to identify trends, patterns, correlations and key findings.
 
-**Data Visualization**
+**✔Data Visualization**
 I present results of my aanalysis using clear charts, dashboards and reports. I also highlight key metrics, KPIs, and actionable insights.
 
-**Interpretation and Recommendation**
+**✔Interpretation and Recommendation**
 I translate my findings into clear, real world implications, provide suggestions and recommendations based on my analysis.
 
 ## MY PROJECTS
 **✔CAR SALES ANALYSIS**
-I carried out analysis on car pricing based on fuel type, gear typr and car condition over a particular period.
+I carried out analysis on car pricing based on fuel type, gear typr and car condition over a particular period and found out how gear types, car conditions and car model affected car prices.
 
 **✔HEALTH CARE ANALYSIS**
 I generated actionable insights to highlight the prevalent medical conditions,insurance coverage disparities, admission trends over the years and was able to find out  blood types assosciated with certain medical conditions.
