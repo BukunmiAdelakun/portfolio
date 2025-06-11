@@ -18,7 +18,7 @@ I translate my findings into clear, real world implications, provide suggestions
 **✔CAR SALES ANALYSIS**
 I carried out analysis on car pricing based on fuel type, gear typr and car condition over a particular period and found out how gear types, car conditions and car model affected car prices.
 
-[Image](Car sales analytics.PNG)
+![Image](Car sales analytics.PNG)
 
 **✔HEALTH CARE ANALYSIS**
 I generated actionable insights to highlight the prevalent medical conditions,insurance coverage disparities, admission trends over the years and was able to find out  blood types assosciated with certain medical conditions.
