@@ -28,7 +28,7 @@ I generated actionable insights to highlight the prevalent medical conditions,in
 **✔SOCIAL MEDIA ADICTION ANALYSIS**
 I collected, cleaned, and analyzed data from 705 students to examine patterns of social media usage, addiction levels, and its effects on academic performance and sleep habits. Identified critical insights such as the most addictive platforms and how addiction levels varied across academic levels and gender.Provided data-driven recommendations for awareness campaigns and student support programs based on observed trends.
 
-![Image](
+![Image](addiction analysis.PNG)
 
 
 
